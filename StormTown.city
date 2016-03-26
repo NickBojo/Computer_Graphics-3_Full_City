@@ -1,0 +1,47 @@
+# Give your cityscape a name
+StormTown
+
+# Number of models specified
+35
+
+# List of models and transformations for each:
+# First entry is the name of the model (including the path, using the directory
+# this file is in as the reference)
+# The next set of entries represent the transformation:
+# Scale in x,y,z, Rotation around x-axis, y-axis, z-axis, Translation from origin i.e.:
+# PathTo/Building.model Sx Sy Sz Rx Ry Rz Ox Oy Oz Tx Ty Tz
+EarthOceanSciences/EarthOceanSciences.model 1.5 1.5 1.5 0 270 0 0 0 0 -5 10.501 0
+WRobertWymanPlaza/WRobertWymanPlaza.model 0.4 0.4 0.4 0 0 0 0 0 0 -11 10.501 6
+BuchananTower/BuchananTower.model 0.16 0.16 0.16 0 90 0 0 0 0 32 5.5 18
+BuchananTower/BuchananTower.model 0.16 0.16 0.16 0 0 0 0 0 0 25 5.5 28
+Theology/Theology.model 0.01 0.01 0.01 180 270 90 0 0 0 12 5.5 28
+StAndrewAndWesleyChurch/StAndrewAndWesleyChurch.model 0.20 0.20 0.20 0 90 0 8.250	13.500	-20.750 -7 5.5 28
+OrchardHouse/OrchardHouse.model 1 1 1 0 0 0 0 0 0 29 5.5 -8
+FrankForward/FrankForward.model 0.8 0.8 0.8 270 90 0 -5.72 100 9 48 5.5 24
+OldFireHall/OldFireHall.model 0.33 0.33 0.33 0 180 0 0 0 0 -33 5.5 -4
+Ponderosa/Ponderosa.model 0.3 0.3 0.3 0 180 0 0 0 0 -28 5.5 11
+UBCVillage/UBCVillage.model 0.01 0.01 0.01 0 180 0 -574.803467 101.155037 44.540405 -16 0.5 83
+LifeSciencesCentre/LifeSciencesCentre.model 0.45 0.45 0.45 0 90 0 0 0 85 0 0.5 45
+StudentRecCentre/StudentRecCentre.model 3.5 3.5 3.5 0 270 0 0 0 0 16 0.5 82
+ClockTower/ClockTower.model 1.5 1.5 1.5 270 0 0 0 0 0 2.5 0 105.5
+ClockTower/ClockTower.model 1.5 1.5 1.5 270 0 0 0 0 0 -2.5 0 105.5
+ScotiaTower/ScotiaTower.model 2 2 2 0 0 0 0 0 0 45 0 -11
+ScotiaTower/ScotiaTower.model 2 2 2 0 180 0 0 0 0 -45 0 -18
+MathAnnex/MathAnnex.model 0.4 0.4 0.4 0 270 0 0 0 0 -17 0.5 45
+CheezeFactory/CheezeFactory.model 0.5 0.5 0.5 0 90 0 0 0 0 -17 0.5 78
+CheezeFactory/CheezeFactory.model 0.5 0.5 0.5 0 270 0 0 0 0 -33 0.5 48
+CheezeFactory/CheezeFactory.model 0.5 0.5 0.5 0 90 0 0 0 0 -29 0.5 58
+CheezeFactory/CheezeFactory.model 0.5 0.5 0.5 0 270 0 0 0 0 -33 0.5 62
+CheezeFactory/CheezeFactory.model 0.5 0.5 0.5 0 90 0 0 0 0 -29 0.5 72
+CheezeFactory/CheezeFactory.model 0.5 0.5 0.5 0 270 0 0 0 0 -33 0.5 76
+CheezeFactory/CheezeFactory.model 0.5 0.5 0.5 0 90 0 0 0 0 -29 0.5 86
+CheezeFactory/CheezeFactory.model 0.5 0.5 0.5 0 270 0 0 0 0 -33 0.5 90
+CheezeFactory/CheezeFactory.model 0.5 0.5 0.5 0 90 0 0 0 0 -29 0.5 100
+CheezeFactory/CheezeFactory.model 0.5 0.5 0.5 0 0 0 0 0 0 30 0.5 65
+CheezeFactory/CheezeFactory.model 0.5 0.5 0.5 0 0 0 0 0 0 30 0.5 77
+CheezeFactory/CheezeFactory.model 0.5 0.5 0.5 0 0 0 0 0 0 30 0.5 89
+ClockTower/ClockTower.model 1 1 1 270 0 0 0 0 0 -2.5 0.5 40.0
+ClockTower/ClockTower.model 1 1 1 270 0 0 0 0 0 2.5 0.5 40.0
+ClockTower/ClockTower.model 1 1 1 270 0 0 0 0 0 -2.5 5.5 20
+ClockTower/ClockTower.model 1 1 1 270 0 0 0 0 0 2.5 5.5 20
+CityPlatform/CityPlatform.model 1 1 1 0 0 0 0 0 0 0 0 0
